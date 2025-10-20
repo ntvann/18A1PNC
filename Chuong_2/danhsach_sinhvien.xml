@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<danhsach_sinhvien>
+    <sinhvien ma_sv="SV001">
+        <ho_ten>Nguyễn Văn An</ho_ten>
+        <nam_sinh>2002</nam_sinh>
+        <lop>CTK44</lop>
+        <gioi_tinh>Nam</gioi_tinh>
+    </sinhvien>
+    <sinhvien ma_sv="SV002">
+        <ho_ten>Trần Thị Bình</ho_ten>
+        <nam_sinh>2003</nam_sinh>
+        <lop>CTK45</lop>
+        <gioi_tinh>Nữ</gioi_tinh>
+    </sinhvien>
+    <sinhvien ma_sv="SV003">
+        <ho_ten>Lê Văn Cường</ho_ten>
+        <nam_sinh>2001</nam_sinh>
+        <lop>CTK43</lop>
+        <gioi_tinh>Nam</gioi_tinh>
+    </sinhvien>
+</danhsach_sinhvien>

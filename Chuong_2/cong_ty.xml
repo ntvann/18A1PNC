@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cong_ty>
+    <thong_tin_chung>
+        <ten_cong_ty>Công ty Cổ phần Công nghệ và Đầu tư tài chính TLS</ten_cong_ty>
+        <gioi_thieu>
+            <loai_hinh_doanh_nghiep>Công ty cổ phần</loai_hinh_doanh_nghiep>
+            <ngay_thanh_lap>2010-05-15</ngay_thanh_lap>
+            <linh_vuc_hoat_dong>
+                <linh_vuc_chinh>Phát triển phần mềm và Đầu tư tài chính</linh_vuc_chinh>
+                <cac_linh_vuc_phu>
+                    <linh_vuc_phu>Đầu tư tài chính</linh_vuc_phu>
+                    <linh_vuc_phu>Tư vấn chuyển đổi số và đầu tư tài chính</linh_vuc_phu>
+                </cac_linh_vuc_phu>
+            </linh_vuc_hoat_dong>
+        </gioi_thieu>
+    </thong_tin_chung>
+
+    <thong_tin_phap_ly>
+        <ma_so_thue>2532586175</ma_so_thue>
+        <ngay_cap>2030-09-19</ngay_cap>
+        <noi_cap>Tổng cục Thuế thành phố Hồ Chí Minh</noi_cap>
+    </thong_tin_phap_ly>
+
+    <thong_tin_lien_he>
+        <dia_chi>
+            <tru_so_chinh>
+                <so_nha>125</so_nha>
+                <duong>Đường nguyễn Huệ</duong>
+                <phuong>Phường Bến Thành</phuong>
+                <quan>Quận 1</quan>
+                <thanh_pho>Hồ Chí Minh</thanh_pho>
+            </tru_so_chinh>
+        </dia_chi>
+        <lien_he>
+            <dien_thoai>0326888215</dien_thoai>
+            <email>contact@techfinance.vn</email>
+            <website>https://www.techfinance.vn</website>
+        </lien_he>
+    </thong_tin_lien_he>
+
+    <nhan_su_chinh>
+        <giam_doc>
+            <ho_ten>Trần Lương Sỹ</ho_ten>
+            <chuc_vu>Tổng Giám đốc</chuc_vu>
+            <dien_thoai>0326888215</dien_thoai>
+            <email>tranluongsy@techfinance.vn</email>
+        </giam_doc>
+    </nhan_su_chinh>
+</cong_ty>
